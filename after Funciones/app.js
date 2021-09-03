@@ -1,4 +1,4 @@
-alert ("Benvenido a HTs Shop \nProductos para tu HomeStudio");
+alert ("Benvenido a HTs Store \nProductos para tu HomeStudio");
 
 // Productos
 let micID = 1;
